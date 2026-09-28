@@ -1,5 +1,6 @@
 ### Hi there 👋
- - currently working on: sudoku solver <br>
+ - currently working on: <br>
+                         sudoku solver <br>
                          change base (but with fractions! to eliminate errors from floating point!!)<br>
                          snake simulation
  - Pronouns: she/her
